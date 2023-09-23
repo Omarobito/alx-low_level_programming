@@ -2,9 +2,10 @@
 
 /**
  * print_alphabet_x10 - function that prints all the alphabets 10 times.
+ *
 */
 
-print_alphabet_x10(void)
+void print_alphabet_x10(void)
 {
 	char ch;
 	int i;
