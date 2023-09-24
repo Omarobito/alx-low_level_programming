@@ -18,7 +18,7 @@ void times_table(void)
 			mu = a * b;
 			_putchar(44);
 			_putchar(32);
-			if (mu <= 9)
+		       if (mu <= 9)
 			{
 				_putchar(32);
 				_putchar(mu ÷ 48);
